@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-  cout<<"hej"<<endl;
+cout<<"hejdå"<<endl;
   return 0;
 }
