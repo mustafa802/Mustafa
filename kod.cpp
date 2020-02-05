@@ -5,4 +5,3 @@ int main(){
   cout<<"test"<<endl;
   return 0;
 }
-void Mumo.
